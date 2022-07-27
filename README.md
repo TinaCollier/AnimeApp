@@ -10,4 +10,4 @@ For this MITxPro challenge, we were tasked with utilizing useEffect to make a re
 ### What I Found Challenging
 The carousel was difficult to work with. I installed bootsrap and it didn't show the `next` and `previous` buttons in my code so I wasn't able to add links to them like I wanted. It also took me a while to figure out how to use an API key since this was my first time trying to fetch data on my own. Next time, I wouldn't use a carousel or I would try to make it more manageable.
 
-![alt text](./anime-app/public/animePic.png)
+<img src="./anime-app/public/animePic.png" width=50% height=50%>
