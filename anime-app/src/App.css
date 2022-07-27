@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+img {
+  height: 450px;
+  width: auto;
+}
+
+a {
+  font-size: 1.5em;
+  
+}
+
+.carousel-control-next {
+  color: white;
+}
+
+.carousel-control-prev {
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
